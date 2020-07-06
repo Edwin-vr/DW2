@@ -1,0 +1,83 @@
+#main-container{
+	margin: 150px auto;
+	width: 600px;
+
+}
+table{
+	width: 100%;
+	background-color: white;
+	text-align:left;
+border-collapse: collapse;
+}
+th,td{
+	padding: 20px;
+	
+
+}
+.encabezado {
+	background-color:#48e;
+	border-bottom: solid 5px #30e;
+	color: white;
+}
+.bien {
+	text-align:center;
+	margin: 10px 900px; 
+	margin-bottom: 6px;
+	padding: none;
+	border: none;
+	box-shadow: 
+}
+.salir-btn{
+	background-color: #DC143C;
+	margin: 50px 900px; 
+	margin-bottom: 6px;
+	padding: none;
+	border: none;
+	text-align:center;
+}
+.salir-btn:hover{
+	background-color: #960e29
+	margin: 50px 900px; 
+	margin-bottom: 6px;
+	padding: none;
+	border: none;
+	
+}
+.compra-btn{
+	background-color: #48e;
+	margin: 50px 900px; 
+	margin-bottom: 7px;
+	padding: none;
+	border: none;
+	text-align:center;
+}
+.compra-btn:hover{
+	background-color: #45e;
+	margin: 50px 900px; 
+	margin-bottom: 7px;
+	padding: none;
+	border: none;
+	
+}
+.salir-btn a{
+	text-align: center;
+	text-decoration-line: none;
+	color:  #ffff;
+}
+.compra-btn a{
+	text-align: center;
+	text-decoration-line: none;
+	color:  #ffff;
+}
+.total{
+    background-color: #48e;
+	margin: none auto; 
+	margin-bottom: 6px;
+	
+	border: none;
+	color: #ffff;
+	text-align:right;
+}
+.total p{
+	margin-right:100px;
+}

@@ -1,0 +1,22 @@
+.bien h1{
+	
+	margin-left: 50px;
+	padding: 50px;
+	font-size: xx-large;
+	color: #48e;
+
+}
+.bien{
+	width: 100%;
+	padding: 100px;
+	
+	text-align: center;
+}
+.bien p{
+
+	margin-left: 50px;
+
+	font-size: xx-large;
+	color: #48e;
+	text-align: ceneter;
+}
